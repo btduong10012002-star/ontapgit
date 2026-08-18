@@ -4,3 +4,4 @@ git commit: lưu dưới local
 git branch -d: xóa nhánh
 git add: add thư mục muốn thay đôi
 git checkout " tên nhánh muốn đổi sang": chuyển sang nhánh muốn đổi
+git clone + đường dẫn git: lệnh dùng để tải một repository (project) từ GitHub/GitLab về máy tính của bạn
