@@ -1,0 +1,6 @@
+git checkout -b: tạo nhánh mới
+git push: đẩy lên git
+git commit: lưu dưới local
+git branch -d: xóa nhánh
+git add: add thư mục muốn thay đôi
+git checkout " tên nhánh muốn đổi sang": chuyển sang nhánh muốn đổi
